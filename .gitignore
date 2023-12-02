@@ -1,3 +1,5 @@
 guessing_game/target
 hello_cargo/target
 hello_world/main
+minigrep/target
+.DS_Store
