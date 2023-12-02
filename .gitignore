@@ -3,3 +3,4 @@ hello_cargo/target
 hello_world/main
 minigrep/target
 .DS_Store
+aoc_2023_01/target
